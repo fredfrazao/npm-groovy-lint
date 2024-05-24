@@ -44,7 +44,7 @@
     "npm-groovy-lint": "lib/index.js"
   },
   "dependencies": {
-    "amplitude": "^5.1.4",
+    "amplitude": "^5.2.0",
     "ansi-colors": "^4.1.1",
     "axios": "^1.6.3",
     "cli-progress": "^3.6.0",
