@@ -57,7 +57,7 @@
     "import-fresh": "^3.2.1",
     "ip": "^1.1.9",
     "java-caller": "^3.0.0",
-    "optionator": "^0.8.3",
+    "optionator": "^0.9.4",
     "semver": "^7.5.2",
     "strip-json-comments": "^3.0.1",
     "uuid": "^8.2.0"
