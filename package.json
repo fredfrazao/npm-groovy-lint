@@ -56,7 +56,7 @@
     "glob": "^9.0.0",
     "import-fresh": "^3.2.1",
     "ip": "^1.1.9",
-    "java-caller": "^3.0.0",
+    "java-caller": "^3.3.1",
     "optionator": "^0.8.3",
     "semver": "^7.5.2",
     "strip-json-comments": "^3.0.1",
