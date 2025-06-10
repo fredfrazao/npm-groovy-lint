@@ -1,4 +1,4 @@
-FROM alpine:3.16.9
+FROM alpine:3.22.0
 WORKDIR /
 
 COPY . .
